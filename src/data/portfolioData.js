@@ -5,7 +5,7 @@ export const personalInfo = {
   shortName: 'Miguel Tamat',
   title: 'Desarrollador Web Full Stack',
   location: 'Guatemala',
-  email: 'migueltamat48@email.com',
+  email: 'migueltamat48@gmail.com',
   profileImage: profileImg,
   heroTagline:
     'Transformo ideas en experiencias digitales robustas, escalables y centradas en el usuario.',
